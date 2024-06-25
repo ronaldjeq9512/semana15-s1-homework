@@ -1,0 +1,10 @@
+.optionsContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex: 2
+}
+
+.navigatorText {
+    color: black
+}

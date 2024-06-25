@@ -1,0 +1,21 @@
+.title {
+    color: black;
+    font-size: 3em;
+}
+
+.subTitle {
+    color:darkgrey;
+}
+
+.forYouContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.forYouListContainer {
+    display: flex;
+    padding-inline: 20px;
+    flex-wrap: wrap;
+    gap: 10px;
+}
