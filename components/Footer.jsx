@@ -3,7 +3,7 @@ import './Footer.css'
 export const Footer = () => {
     return (
         <footer className='footerComponent'>
-            <p>Footer</p>
+            <button>See all</button>
         </footer>
     )
 }

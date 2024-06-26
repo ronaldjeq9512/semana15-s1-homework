@@ -3,6 +3,7 @@ import { Footer } from '../components/Footer'
 import { Header } from '../components/Header/Header'
 import { ResumeCard } from '../components/ResumeCard/ResumeCard'
 import { ForYou } from '../components/ForYou/ForYou'
+import { Tour } from '../components/Tour/Tour'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
       <main>
         <ResumeCard />
         <ForYou />
+        <Tour />
         <Footer />
 
       </main>

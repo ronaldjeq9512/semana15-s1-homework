@@ -1,0 +1,16 @@
+.tourContainer {
+    padding: 20px;
+}
+
+.titleTour {
+    font-size: 3em;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 30px;
+}
+
+.tourItemsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}

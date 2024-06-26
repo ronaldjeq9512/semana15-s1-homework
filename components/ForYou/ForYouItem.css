@@ -6,7 +6,9 @@
 }
 
 .forYouItemImage {
-    height: 120px;
+    height: 80px;
+    border-radius: 30px;
+    background-color: red;
 }
 
 .forYouItemTitle {
